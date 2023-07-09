@@ -1,5 +1,5 @@
 # magento-2-ajax-cart-pro
-Magento 2 Ajax Cart Pro extension allows to add products to cart from category page, without need to redirect to product detail page, product details are displayed on popup, fast and improve customer experience.
+With the Magento 2 Ajax Cart Pro extension, you can add products to cart from category page, without going to product detail page, product details are shown on popup, quick and enhance customer experience.
 
 Please go to https://magehq.com/magento-2-ajax-cart-pro.html buy extension
 
